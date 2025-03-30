@@ -25,9 +25,9 @@
             "references": [
                 {
                     "name": "",
-                    "enabled": false,
+                    "enabled": true,
                     "type": "TEXT",
-                    "text": "",
+                    "text": "adwadw",
                     "object_name": "",
                     "text_editor_name": "",
                     "collection_name": "",
@@ -37,7 +37,7 @@
         }
     ],
     "links": [],
-    "last_modified": "2025-03-30T12:58:36.392094",
-    "creation_time": "2025-03-30 12:58:36",
+    "last_modified": "2025-03-30T12:58:54.184366",
+    "creation_time": "2025-03-30 12:58:54",
     "github_path": ""
 }
