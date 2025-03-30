@@ -17,8 +17,8 @@
                 140.0,
                 149.0
             ],
-            "last_modified": "2025-03-30T12:54:55.481065",
-            "checkbox": false,
+            "last_modified": "2025-03-30T12:58:09.784452",
+            "checkbox": true,
             "text": "test",
             "state_text": "",
             "title": "",
@@ -26,7 +26,7 @@
         }
     ],
     "links": [],
-    "last_modified": "2025-03-30T12:58:00.661876",
-    "creation_time": "2025-03-30 12:58:00",
+    "last_modified": "2025-03-30T12:58:11.824920",
+    "creation_time": "2025-03-30 12:58:11",
     "github_path": ""
 }
