@@ -15,18 +15,29 @@
             ],
             "dimensions": [
                 140.0,
-                149.0
+                174.0
             ],
-            "last_modified": "2025-03-30T12:58:09.784452",
-            "checkbox": true,
+            "last_modified": "2025-03-30T12:58:34.944897",
+            "checkbox": false,
             "text": "test",
             "state_text": "",
             "title": "",
-            "references": []
+            "references": [
+                {
+                    "name": "",
+                    "enabled": false,
+                    "type": "TEXT",
+                    "text": "",
+                    "object_name": "",
+                    "text_editor_name": "",
+                    "collection_name": "",
+                    "image_name": ""
+                }
+            ]
         }
     ],
     "links": [],
-    "last_modified": "2025-03-30T12:58:11.824920",
-    "creation_time": "2025-03-30 12:58:11",
+    "last_modified": "2025-03-30T12:58:36.392094",
+    "creation_time": "2025-03-30 12:58:36",
     "github_path": ""
 }
