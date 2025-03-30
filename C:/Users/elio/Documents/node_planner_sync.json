@@ -1,0 +1,53 @@
+{
+    "name": "NodePlanner",
+    "color": [
+        1.0,
+        1.0,
+        1.0
+    ],
+    "nodes": [
+        {
+            "name": "planner",
+            "type": "SimpleNodeType",
+            "location": [
+                916.7482299804688,
+                559.7092895507812
+            ],
+            "dimensions": [
+                140.0,
+                199.0
+            ],
+            "last_modified": "2025-03-30T12:35:11.986152",
+            "checkbox": false,
+            "text": "planner",
+            "state_text": "",
+            "title": "",
+            "references": [
+                {
+                    "name": "",
+                    "enabled": false,
+                    "type": "TEXT",
+                    "text": "one",
+                    "object_name": "",
+                    "text_editor_name": "",
+                    "collection_name": "",
+                    "image_name": ""
+                },
+                {
+                    "name": "",
+                    "enabled": true,
+                    "type": "TEXT",
+                    "text": "two",
+                    "object_name": "",
+                    "text_editor_name": "",
+                    "collection_name": "",
+                    "image_name": ""
+                }
+            ]
+        }
+    ],
+    "links": [],
+    "last_modified": "2025-03-30T12:36:13.666413",
+    "creation_time": "2025-03-30 12:36:13",
+    "github_path": ""
+}
