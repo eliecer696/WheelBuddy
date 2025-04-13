@@ -9,6 +9,35 @@
             ],
             "nodes": [
                 {
+                    "name": "Frame",
+                    "type": "NodeFrame",
+                    "location": [
+                        0.0,
+                        0.0
+                    ],
+                    "dimensions": [
+                        902.0,
+                        298.0
+                    ],
+                    "last_modified": "2025-04-12T20:12:07.725500",
+                    "checkbox": false,
+                    "text": null,
+                    "state_text": "",
+                    "title": "",
+                    "references": [],
+                    "parent": "",
+                    "label": "",
+                    "use_custom_color": false,
+                    "color": [
+                        0.6079999804496765,
+                        0.6079999804496765,
+                        0.6079999804496765
+                    ],
+                    "width": 902.0,
+                    "height": 298.0,
+                    "hide": false
+                },
+                {
                     "name": "Task",
                     "type": "SimpleNodeType",
                     "location": [
@@ -17,39 +46,14 @@
                     ],
                     "dimensions": [
                         350.0,
-                        313.0
+                        127.0
                     ],
-                    "last_modified": "2025-04-12T20:10:07.109710",
+                    "last_modified": "2025-04-12T20:11:32.777955",
                     "checkbox": false,
                     "text": "",
                     "state_text": "",
                     "title": "",
-                    "references": [
-                        {
-                            "name": "",
-                            "enabled": false,
-                            "type": "OBJECT",
-                            "text": "",
-                            "object_name": "Cube",
-                            "text_editor_name": "",
-                            "collection_name": "",
-                            "image_name": "",
-                            "last_modified": "",
-                            "creation_time": "2025-04-12 20:10:01"
-                        },
-                        {
-                            "name": "",
-                            "enabled": true,
-                            "type": "OBJECT",
-                            "text": "",
-                            "object_name": "",
-                            "text_editor_name": "",
-                            "collection_name": "",
-                            "image_name": "",
-                            "last_modified": "2025-04-12T20:10:08.296658",
-                            "creation_time": "2025-04-12 20:10:07"
-                        }
-                    ],
+                    "references": [],
                     "parent": "Frame",
                     "label": "",
                     "use_custom_color": true,
@@ -66,31 +70,19 @@
                     "name": "Task.001",
                     "type": "SimpleNodeType",
                     "location": [
-                        1522.2960205078125,
-                        252.4458770751953
+                        1514.429931640625,
+                        244.576171875
                     ],
                     "dimensions": [
                         350.0,
-                        273.0
+                        200.0
                     ],
-                    "last_modified": "2025-04-12T20:09:53.742868",
+                    "last_modified": "2025-04-12T20:11:29.546906",
                     "checkbox": false,
                     "text": "",
                     "state_text": "",
                     "title": "",
                     "references": [
-                        {
-                            "name": "",
-                            "enabled": false,
-                            "type": "TEXT",
-                            "text": "adwadwa",
-                            "object_name": "",
-                            "text_editor_name": "",
-                            "collection_name": "",
-                            "image_name": "",
-                            "last_modified": "",
-                            "creation_time": "2025-04-12 20:09:49"
-                        },
                         {
                             "name": "",
                             "enabled": false,
@@ -115,35 +107,6 @@
                     "width": 350.0,
                     "height": 100.0,
                     "hide": false
-                },
-                {
-                    "name": "Frame",
-                    "type": "NodeFrame",
-                    "location": [
-                        0.0,
-                        0.0
-                    ],
-                    "dimensions": [
-                        910.0,
-                        373.0
-                    ],
-                    "last_modified": "2025-04-12T20:10:24.200691",
-                    "checkbox": false,
-                    "text": null,
-                    "state_text": "",
-                    "title": "",
-                    "references": [],
-                    "parent": "",
-                    "label": "",
-                    "use_custom_color": false,
-                    "color": [
-                        0.6079999804496765,
-                        0.6079999804496765,
-                        0.6079999804496765
-                    ],
-                    "width": 910.0,
-                    "height": 373.0,
-                    "hide": false
                 }
             ],
             "links": [],
@@ -159,18 +122,18 @@
                     "parent_type": "NodeFrame"
                 }
             ],
-            "last_modified": "2025-04-12T20:10:24.200691",
-            "creation_time": "2025-04-12 20:10:24",
+            "last_modified": "2025-04-12T20:12:07.725500",
+            "creation_time": "2025-04-12 20:12:07",
             "github_path": "",
             "metadata": {
                 "exported_by": "elio",
-                "export_time": "2025-04-12T20:10:24.200691",
+                "export_time": "2025-04-12T20:12:07.725500",
                 "blender_version": "4.3.2",
                 "hostname": "DESKTOP-OV6I6MS"
             },
             "view_center": [
-                848.2559407552084,
-                178.32132466634116
+                845.6339111328125,
+                175.69808959960938
             ]
         },
         "TodoList": {
@@ -183,12 +146,12 @@
             "nodes": [],
             "links": [],
             "frame_relationships": [],
-            "last_modified": "2025-04-12T20:10:24.200691",
-            "creation_time": "2025-04-12 20:10:24",
+            "last_modified": "2025-04-12T20:12:07.725500",
+            "creation_time": "2025-04-12 20:12:07",
             "github_path": "",
             "metadata": {
                 "exported_by": "elio",
-                "export_time": "2025-04-12T20:10:24.200691",
+                "export_time": "2025-04-12T20:12:07.725500",
                 "blender_version": "4.3.2",
                 "hostname": "DESKTOP-OV6I6MS"
             },
@@ -200,7 +163,7 @@
     },
     "metadata": {
         "exported_by": "elio",
-        "export_time": "2025-04-12T20:10:24.200691",
+        "export_time": "2025-04-12T20:12:07.725500",
         "blender_version": "4.3.2",
         "hostname": "DESKTOP-OV6I6MS",
         "tree_count": 2
