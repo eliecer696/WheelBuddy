@@ -16,10 +16,10 @@
                         32.45703125
                     ],
                     "dimensions": [
-                        1085.0,
-                        616.0
+                        1258.0,
+                        654.0
                     ],
-                    "last_modified": "2025-04-13T19:42:55.567808",
+                    "last_modified": "2025-04-13T19:43:23.486181",
                     "checkbox": false,
                     "text": null,
                     "state_text": "",
@@ -33,16 +33,16 @@
                         0.6079999804496765,
                         0.6079999804496765
                     ],
-                    "width": 1085.0,
-                    "height": 616.0,
+                    "width": 1258.0,
+                    "height": 654.0,
                     "hide": false
                 },
                 {
                     "name": "Task.001",
                     "type": "SimpleNodeType",
                     "location": [
-                        4201.85986328125,
-                        2132.630615234375
+                        4095.41357421875,
+                        2276.857666015625
                     ],
                     "dimensions": [
                         350.0,
@@ -99,14 +99,107 @@
                     "name": "Note",
                     "type": "NoteNodeType",
                     "location": [
-                        3527.0751953125,
-                        2238.964599609375
+                        4044.6962890625,
+                        2044.57177734375
                     ],
                     "dimensions": [
                         350.0,
                         149.0
                     ],
-                    "last_modified": "2025-04-13T19:42:55.567808",
+                    "last_modified": "2025-04-13T19:43:23.486181",
+                    "checkbox": false,
+                    "text": "",
+                    "state_text": "",
+                    "title": "",
+                    "references": [],
+                    "parent": "Frame",
+                    "label": "",
+                    "use_custom_color": true,
+                    "color": [
+                        1.0,
+                        0.800000011920929,
+                        0.20000000298023224
+                    ],
+                    "width": 350.0,
+                    "height": 100.0,
+                    "hide": false,
+                    "is_read": false,
+                    "replies": []
+                },
+                {
+                    "name": "Note.001",
+                    "type": "NoteNodeType",
+                    "location": [
+                        4531.009765625,
+                        2086.376708984375
+                    ],
+                    "dimensions": [
+                        350.0,
+                        149.0
+                    ],
+                    "last_modified": "2025-04-13T19:43:23.486181",
+                    "checkbox": false,
+                    "text": "",
+                    "state_text": "",
+                    "title": "",
+                    "references": [],
+                    "parent": "Frame",
+                    "label": "",
+                    "use_custom_color": true,
+                    "color": [
+                        1.0,
+                        0.800000011920929,
+                        0.20000000298023224
+                    ],
+                    "width": 350.0,
+                    "height": 100.0,
+                    "hide": false,
+                    "is_read": false,
+                    "replies": []
+                },
+                {
+                    "name": "Note.002",
+                    "type": "NoteNodeType",
+                    "location": [
+                        4568.5791015625,
+                        2224.3330078125
+                    ],
+                    "dimensions": [
+                        350.0,
+                        149.0
+                    ],
+                    "last_modified": "2025-04-13T19:43:23.486181",
+                    "checkbox": false,
+                    "text": "",
+                    "state_text": "",
+                    "title": "",
+                    "references": [],
+                    "parent": "Frame",
+                    "label": "",
+                    "use_custom_color": true,
+                    "color": [
+                        1.0,
+                        0.800000011920929,
+                        0.20000000298023224
+                    ],
+                    "width": 350.0,
+                    "height": 100.0,
+                    "hide": false,
+                    "is_read": false,
+                    "replies": []
+                },
+                {
+                    "name": "Note.003",
+                    "type": "NoteNodeType",
+                    "location": [
+                        4539.3583984375,
+                        1856.44970703125
+                    ],
+                    "dimensions": [
+                        350.0,
+                        149.0
+                    ],
+                    "last_modified": "2025-04-13T19:43:23.486181",
                     "checkbox": false,
                     "text": "",
                     "state_text": "",
@@ -143,26 +236,41 @@
                     "child": "Note",
                     "parent": "Frame",
                     "parent_type": "NodeFrame"
+                },
+                {
+                    "child": "Note.001",
+                    "parent": "Frame",
+                    "parent_type": "NodeFrame"
+                },
+                {
+                    "child": "Note.002",
+                    "parent": "Frame",
+                    "parent_type": "NodeFrame"
+                },
+                {
+                    "child": "Note.003",
+                    "parent": "Frame",
+                    "parent_type": "NodeFrame"
                 }
             ],
-            "last_modified": "2025-04-13T19:42:55.567808",
-            "creation_time": "2025-04-13 19:42:55",
+            "last_modified": "2025-04-13T19:43:23.486181",
+            "creation_time": "2025-04-13 19:43:23",
             "github_path": "",
             "metadata": {
                 "exported_by": "elio",
-                "export_time": "2025-04-13T19:42:55.567808",
+                "export_time": "2025-04-13T19:43:23.486181",
                 "blender_version": "4.3.2",
                 "hostname": "DESKTOP-OV6I6MS"
             },
             "view_center": [
-                2787.3717346191406,
-                1553.496337890625
+                3599.9441441127233,
+                1761.5684291294642
             ]
         }
     },
     "metadata": {
         "exported_by": "elio",
-        "export_time": "2025-04-13T19:42:55.567808",
+        "export_time": "2025-04-13T19:43:23.486181",
         "blender_version": "4.3.2",
         "hostname": "DESKTOP-OV6I6MS",
         "tree_count": 1
