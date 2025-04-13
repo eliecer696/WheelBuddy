@@ -16,10 +16,10 @@
                         32.45703125
                     ],
                     "dimensions": [
-                        1118.0,
+                        1085.0,
                         616.0
                     ],
-                    "last_modified": "2025-04-13T19:37:44.750187",
+                    "last_modified": "2025-04-13T19:38:16.091168",
                     "checkbox": false,
                     "text": null,
                     "state_text": "",
@@ -33,7 +33,7 @@
                         0.6079999804496765,
                         0.6079999804496765
                     ],
-                    "width": 1118.0,
+                    "width": 1085.0,
                     "height": 616.0,
                     "hide": false
                 },
@@ -41,8 +41,8 @@
                     "name": "Task.001",
                     "type": "SimpleNodeType",
                     "location": [
-                        3635.80517578125,
-                        1880.6715087890625
+                        3902.23974609375,
+                        2165.087646484375
                     ],
                     "dimensions": [
                         350.0,
@@ -70,8 +70,8 @@
                     "name": "hgfchgfc",
                     "type": "SimpleNodeType",
                     "location": [
-                        3120.931640625,
-                        1874.84716796875
+                        3420.5517578125,
+                        1842.39013671875
                     ],
                     "dimensions": [
                         350.0,
@@ -99,14 +99,14 @@
                     "name": "Note",
                     "type": "NoteNodeType",
                     "location": [
-                        2927.8349609375,
-                        2303.878662109375
+                        3227.455078125,
+                        2271.421630859375
                     ],
                     "dimensions": [
                         350.0,
                         149.0
                     ],
-                    "last_modified": "2025-04-13T19:37:44.750187",
+                    "last_modified": "2025-04-13T19:38:16.091168",
                     "checkbox": false,
                     "text": "",
                     "state_text": "",
@@ -145,24 +145,24 @@
                     "parent_type": "NodeFrame"
                 }
             ],
-            "last_modified": "2025-04-13T19:37:44.750187",
-            "creation_time": "2025-04-13 19:37:44",
+            "last_modified": "2025-04-13T19:38:16.091168",
+            "creation_time": "2025-04-13 19:38:16",
             "github_path": "",
             "metadata": {
                 "exported_by": "elio",
-                "export_time": "2025-04-13T19:37:44.750187",
+                "export_time": "2025-04-13T19:38:16.091168",
                 "blender_version": "4.3.2",
                 "hostname": "DESKTOP-OV6I6MS"
             },
             "view_center": [
-                2346.2379455566406,
-                1522.9635925292969
+                2562.6566467285156,
+                1577.839111328125
             ]
         }
     },
     "metadata": {
         "exported_by": "elio",
-        "export_time": "2025-04-13T19:37:44.750187",
+        "export_time": "2025-04-13T19:38:16.091168",
         "blender_version": "4.3.2",
         "hostname": "DESKTOP-OV6I6MS",
         "tree_count": 1
