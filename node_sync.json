@@ -16,10 +16,10 @@
                         0.0
                     ],
                     "dimensions": [
-                        902.0,
-                        298.0
+                        1025.0,
+                        359.0
                     ],
-                    "last_modified": "2025-04-12T20:12:07.725500",
+                    "last_modified": "2025-04-12T20:19:37.986462",
                     "checkbox": false,
                     "text": null,
                     "state_text": "",
@@ -33,8 +33,8 @@
                         0.6079999804496765,
                         0.6079999804496765
                     ],
-                    "width": 902.0,
-                    "height": 298.0,
+                    "width": 1025.0,
+                    "height": 359.0,
                     "hide": false
                 },
                 {
@@ -70,8 +70,8 @@
                     "name": "Task.001",
                     "type": "SimpleNodeType",
                     "location": [
-                        1514.429931640625,
-                        244.576171875
+                        1636.5933837890625,
+                        454.836669921875
                     ],
                     "dimensions": [
                         350.0,
@@ -122,18 +122,18 @@
                     "parent_type": "NodeFrame"
                 }
             ],
-            "last_modified": "2025-04-12T20:12:07.725500",
-            "creation_time": "2025-04-12 20:12:07",
+            "last_modified": "2025-04-12T20:19:37.986462",
+            "creation_time": "2025-04-12 20:19:37",
             "github_path": "",
             "metadata": {
                 "exported_by": "elio",
-                "export_time": "2025-04-12T20:12:07.725500",
+                "export_time": "2025-04-12T20:19:37.986462",
                 "blender_version": "4.3.2",
                 "hostname": "DESKTOP-OV6I6MS"
             },
             "view_center": [
-                845.6339111328125,
-                175.69808959960938
+                886.3550618489584,
+                245.78492228190103
             ]
         },
         "TodoList": {
@@ -146,12 +146,12 @@
             "nodes": [],
             "links": [],
             "frame_relationships": [],
-            "last_modified": "2025-04-12T20:12:07.725500",
-            "creation_time": "2025-04-12 20:12:07",
+            "last_modified": "2025-04-12T20:19:37.986462",
+            "creation_time": "2025-04-12 20:19:37",
             "github_path": "",
             "metadata": {
                 "exported_by": "elio",
-                "export_time": "2025-04-12T20:12:07.725500",
+                "export_time": "2025-04-12T20:19:37.986462",
                 "blender_version": "4.3.2",
                 "hostname": "DESKTOP-OV6I6MS"
             },
@@ -163,7 +163,7 @@
     },
     "metadata": {
         "exported_by": "elio",
-        "export_time": "2025-04-12T20:12:07.725500",
+        "export_time": "2025-04-12T20:19:37.986462",
         "blender_version": "4.3.2",
         "hostname": "DESKTOP-OV6I6MS",
         "tree_count": 2
