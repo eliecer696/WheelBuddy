@@ -7,27 +7,162 @@
                 1.0,
                 1.0
             ],
-            "nodes": [],
+            "nodes": [
+                {
+                    "name": "Frame",
+                    "type": "NodeFrame",
+                    "location": [
+                        -299.6199951171875,
+                        32.45703125
+                    ],
+                    "dimensions": [
+                        1118.0,
+                        616.0
+                    ],
+                    "last_modified": "2025-04-13T19:37:44.750187",
+                    "checkbox": false,
+                    "text": null,
+                    "state_text": "",
+                    "title": "",
+                    "references": [],
+                    "parent": "",
+                    "label": "",
+                    "use_custom_color": false,
+                    "color": [
+                        0.6079999804496765,
+                        0.6079999804496765,
+                        0.6079999804496765
+                    ],
+                    "width": 1118.0,
+                    "height": 616.0,
+                    "hide": false
+                },
+                {
+                    "name": "Task.001",
+                    "type": "SimpleNodeType",
+                    "location": [
+                        3635.80517578125,
+                        1880.6715087890625
+                    ],
+                    "dimensions": [
+                        350.0,
+                        127.0
+                    ],
+                    "last_modified": "2025-04-12T20:04:31.443957",
+                    "checkbox": true,
+                    "text": "",
+                    "state_text": "",
+                    "title": "",
+                    "references": [],
+                    "parent": "Frame",
+                    "label": "",
+                    "use_custom_color": true,
+                    "color": [
+                        0.0,
+                        0.5,
+                        0.0
+                    ],
+                    "width": 350.0,
+                    "height": 100.0,
+                    "hide": false
+                },
+                {
+                    "name": "hgfchgfc",
+                    "type": "SimpleNodeType",
+                    "location": [
+                        3120.931640625,
+                        1874.84716796875
+                    ],
+                    "dimensions": [
+                        350.0,
+                        127.0
+                    ],
+                    "last_modified": "2025-04-12T19:23:57.746671",
+                    "checkbox": true,
+                    "text": "hgfchgfc",
+                    "state_text": "",
+                    "title": "",
+                    "references": [],
+                    "parent": "Frame",
+                    "label": "",
+                    "use_custom_color": true,
+                    "color": [
+                        0.0,
+                        0.5,
+                        0.0
+                    ],
+                    "width": 350.0,
+                    "height": 100.0,
+                    "hide": false
+                },
+                {
+                    "name": "Note",
+                    "type": "NoteNodeType",
+                    "location": [
+                        2927.8349609375,
+                        2303.878662109375
+                    ],
+                    "dimensions": [
+                        350.0,
+                        149.0
+                    ],
+                    "last_modified": "2025-04-13T19:37:44.750187",
+                    "checkbox": false,
+                    "text": "",
+                    "state_text": "",
+                    "title": "",
+                    "references": [],
+                    "parent": "Frame",
+                    "label": "",
+                    "use_custom_color": true,
+                    "color": [
+                        1.0,
+                        0.800000011920929,
+                        0.20000000298023224
+                    ],
+                    "width": 350.0,
+                    "height": 100.0,
+                    "hide": false,
+                    "is_read": false,
+                    "replies": []
+                }
+            ],
             "links": [],
-            "frame_relationships": [],
-            "last_modified": "2025-04-13T19:36:37.316478",
-            "creation_time": "2025-04-13 19:36:37",
+            "frame_relationships": [
+                {
+                    "child": "Task.001",
+                    "parent": "Frame",
+                    "parent_type": "NodeFrame"
+                },
+                {
+                    "child": "hgfchgfc",
+                    "parent": "Frame",
+                    "parent_type": "NodeFrame"
+                },
+                {
+                    "child": "Note",
+                    "parent": "Frame",
+                    "parent_type": "NodeFrame"
+                }
+            ],
+            "last_modified": "2025-04-13T19:37:44.750187",
+            "creation_time": "2025-04-13 19:37:44",
             "github_path": "",
             "metadata": {
                 "exported_by": "elio",
-                "export_time": "2025-04-13T19:36:37.316478",
+                "export_time": "2025-04-13T19:37:44.750187",
                 "blender_version": "4.3.2",
                 "hostname": "DESKTOP-OV6I6MS"
             },
             "view_center": [
-                0,
-                0
+                2346.2379455566406,
+                1522.9635925292969
             ]
         }
     },
     "metadata": {
         "exported_by": "elio",
-        "export_time": "2025-04-13T19:36:37.316478",
+        "export_time": "2025-04-13T19:37:44.750187",
         "blender_version": "4.3.2",
         "hostname": "DESKTOP-OV6I6MS",
         "tree_count": 1
