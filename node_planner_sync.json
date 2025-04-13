@@ -19,7 +19,7 @@
                         1085.0,
                         616.0
                     ],
-                    "last_modified": "2025-04-13T19:38:16.091168",
+                    "last_modified": "2025-04-13T19:42:42.273201",
                     "checkbox": false,
                     "text": null,
                     "state_text": "",
@@ -41,8 +41,8 @@
                     "name": "Task.001",
                     "type": "SimpleNodeType",
                     "location": [
-                        3902.23974609375,
-                        2165.087646484375
+                        4201.85986328125,
+                        2132.630615234375
                     ],
                     "dimensions": [
                         350.0,
@@ -70,8 +70,8 @@
                     "name": "hgfchgfc",
                     "type": "SimpleNodeType",
                     "location": [
-                        3420.5517578125,
-                        1842.39013671875
+                        3720.171875,
+                        1809.93310546875
                     ],
                     "dimensions": [
                         350.0,
@@ -99,14 +99,14 @@
                     "name": "Note",
                     "type": "NoteNodeType",
                     "location": [
-                        3227.455078125,
-                        2271.421630859375
+                        3527.0751953125,
+                        2238.964599609375
                     ],
                     "dimensions": [
                         350.0,
                         149.0
                     ],
-                    "last_modified": "2025-04-13T19:38:16.091168",
+                    "last_modified": "2025-04-13T19:42:42.273201",
                     "checkbox": false,
                     "text": "",
                     "state_text": "",
@@ -145,24 +145,24 @@
                     "parent_type": "NodeFrame"
                 }
             ],
-            "last_modified": "2025-04-13T19:38:16.091168",
-            "creation_time": "2025-04-13 19:38:16",
+            "last_modified": "2025-04-13T19:42:42.273201",
+            "creation_time": "2025-04-13 19:42:42",
             "github_path": "",
             "metadata": {
                 "exported_by": "elio",
-                "export_time": "2025-04-13T19:38:16.091168",
+                "export_time": "2025-04-13T19:42:42.273201",
                 "blender_version": "4.3.2",
                 "hostname": "DESKTOP-OV6I6MS"
             },
             "view_center": [
-                2562.6566467285156,
-                1577.839111328125
+                2787.3717346191406,
+                1553.496337890625
             ]
         }
     },
     "metadata": {
         "exported_by": "elio",
-        "export_time": "2025-04-13T19:38:16.091168",
+        "export_time": "2025-04-13T19:42:42.273201",
         "blender_version": "4.3.2",
         "hostname": "DESKTOP-OV6I6MS",
         "tree_count": 1
