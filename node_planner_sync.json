@@ -7,57 +7,27 @@
                 1.0,
                 1.0
             ],
-            "nodes": [
-                {
-                    "name": "State Node",
-                    "type": "StateNodeType",
-                    "location": [
-                        3512.6904296875,
-                        1952.44091796875
-                    ],
-                    "dimensions": [
-                        200.0,
-                        99.0
-                    ],
-                    "last_modified": "",
-                    "checkbox": false,
-                    "text": "",
-                    "state_text": "State",
-                    "title": "",
-                    "references": [],
-                    "parent": "",
-                    "label": "",
-                    "use_custom_color": false,
-                    "color": [
-                        0.6079999804496765,
-                        0.6079999804496765,
-                        0.6079999804496765
-                    ],
-                    "width": 200.0,
-                    "height": 100.0,
-                    "hide": false
-                }
-            ],
+            "nodes": [],
             "links": [],
             "frame_relationships": [],
-            "last_modified": "2025-04-13T19:36:26.433568",
-            "creation_time": "2025-04-13 19:36:26",
+            "last_modified": "2025-04-13T19:36:37.316478",
+            "creation_time": "2025-04-13 19:36:37",
             "github_path": "",
             "metadata": {
                 "exported_by": "elio",
-                "export_time": "2025-04-13T19:36:26.433568",
+                "export_time": "2025-04-13T19:36:37.316478",
                 "blender_version": "4.3.2",
                 "hostname": "DESKTOP-OV6I6MS"
             },
             "view_center": [
-                3512.6904296875,
-                1952.44091796875
+                0,
+                0
             ]
         }
     },
     "metadata": {
         "exported_by": "elio",
-        "export_time": "2025-04-13T19:36:26.433568",
+        "export_time": "2025-04-13T19:36:37.316478",
         "blender_version": "4.3.2",
         "hostname": "DESKTOP-OV6I6MS",
         "tree_count": 1
