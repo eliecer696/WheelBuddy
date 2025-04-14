@@ -19,7 +19,7 @@
                         939.0,
                         611.0
                     ],
-                    "last_modified": "2025-04-13T22:38:11.603421",
+                    "last_modified": "2025-04-13T22:39:02.172476",
                     "checkbox": false,
                     "text": null,
                     "state_text": "",
@@ -168,12 +168,12 @@
                     "parent_type": "NodeFrame"
                 }
             ],
-            "last_modified": "2025-04-13T22:38:11.603421",
-            "creation_time": "2025-04-13 22:38:11",
+            "last_modified": "2025-04-13T22:39:02.172476",
+            "creation_time": "2025-04-13 22:39:02",
             "github_path": "",
             "metadata": {
                 "exported_by": "elio",
-                "export_time": "2025-04-13T22:38:11.603421",
+                "export_time": "2025-04-13T22:39:02.172476",
                 "blender_version": "4.3.2",
                 "hostname": "DESKTOP-OV6I6MS"
             },
@@ -181,37 +181,13 @@
                 1487.7598571777344,
                 229.8529567718506
             ]
-        },
-        "TodoList": {
-            "name": "TodoList",
-            "color": [
-                0.3652900159358978,
-                0.6743048429489136,
-                0.0042905802838504314
-            ],
-            "nodes": [],
-            "links": [],
-            "frame_relationships": [],
-            "last_modified": "2025-04-13T22:38:11.603421",
-            "creation_time": "2025-04-13 22:38:11",
-            "github_path": "",
-            "metadata": {
-                "exported_by": "elio",
-                "export_time": "2025-04-13T22:38:11.603421",
-                "blender_version": "4.3.2",
-                "hostname": "DESKTOP-OV6I6MS"
-            },
-            "view_center": [
-                0,
-                0
-            ]
         }
     },
     "metadata": {
         "exported_by": "elio",
-        "export_time": "2025-04-13T22:38:11.603421",
+        "export_time": "2025-04-13T22:39:02.172476",
         "blender_version": "4.3.2",
         "hostname": "DESKTOP-OV6I6MS",
-        "tree_count": 2
+        "tree_count": 1
     }
 }
