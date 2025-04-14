@@ -19,7 +19,7 @@
                         939.0,
                         611.0
                     ],
-                    "last_modified": "2025-04-13T22:39:02.172476",
+                    "last_modified": "2025-04-13T22:43:04.753463",
                     "checkbox": false,
                     "text": null,
                     "state_text": "",
@@ -168,12 +168,12 @@
                     "parent_type": "NodeFrame"
                 }
             ],
-            "last_modified": "2025-04-13T22:39:02.172476",
-            "creation_time": "2025-04-13 22:39:02",
+            "last_modified": "2025-04-13T22:43:04.754464",
+            "creation_time": "2025-04-13 22:43:04",
             "github_path": "",
             "metadata": {
                 "exported_by": "elio",
-                "export_time": "2025-04-13T22:39:02.172476",
+                "export_time": "2025-04-13T22:43:04.754464",
                 "blender_version": "4.3.2",
                 "hostname": "DESKTOP-OV6I6MS"
             },
@@ -185,7 +185,7 @@
     },
     "metadata": {
         "exported_by": "elio",
-        "export_time": "2025-04-13T22:39:02.172476",
+        "export_time": "2025-04-13T22:43:04.754464",
         "blender_version": "4.3.2",
         "hostname": "DESKTOP-OV6I6MS",
         "tree_count": 1
