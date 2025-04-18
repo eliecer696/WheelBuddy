@@ -50,13 +50,13 @@
                                     "type": "IMAGE",
                                     "object_name": "",
                                     "collection_name": "",
-                                    "image_name": "Handle1_diff.png",
+                                    "image_name": "devbudlogo.png",
                                     "image_url": "",
                                     "description_text": "",
                                     "creation_time": "2025-04-18 00:27:04",
                                     "last_modified": "2025-04-18 00:27:04",
-                                    "github_image_path": "images/Handle1_diff.png",
-                                    "image_filename": "Handle1_diff.png"
+                                    "github_image_path": "images/devbudlogo.png",
+                                    "image_filename": "devbudlogo.png"
                                 }
                             ]
                         }
@@ -66,12 +66,12 @@
             ],
             "links": [],
             "frame_relationships": [],
-            "last_modified": "2025-04-18T00:27:23.040295",
-            "creation_time": "2025-04-18 00:27:23",
+            "last_modified": "2025-04-18T00:27:48.403019",
+            "creation_time": "2025-04-18 00:27:48",
             "github_path": "",
             "metadata": {
                 "exported_by": "elio",
-                "export_time": "2025-04-18T00:27:23.040295",
+                "export_time": "2025-04-18T00:27:48.403019",
                 "blender_version": "4.3.2",
                 "hostname": "DESKTOP-OV6I6MS"
             },
@@ -84,7 +84,7 @@
     "team_members": [],
     "metadata": {
         "exported_by": "elio",
-        "export_time": "2025-04-18T00:27:23.040295",
+        "export_time": "2025-04-18T00:27:48.404005",
         "blender_version": "4.3.2",
         "hostname": "DESKTOP-OV6I6MS",
         "tree_count": 1
